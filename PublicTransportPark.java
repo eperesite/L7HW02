@@ -1,5 +1,3 @@
-
-// Класс парка общественного транспорта
 public class PublicTransportPark {
 
     private final PublicTransport[] vehicles;
